@@ -1,3 +1,6 @@
-.App{
-    background-color: red;
-}
+@import './Admin/admin';
+@import './CarOwner/car_owner';
+@import './Customer/customer';
+@import './General/general';
+@import './LoginRegister/login_register';
+@import './Modals/modal';
