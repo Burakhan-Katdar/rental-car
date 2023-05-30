@@ -1,15 +1,16 @@
 import "../../scss/main.scss";
+
 import 'bootstrap/dist/css/bootstrap.css';
-function Footer() {
+function Body() {
   return (
-    <div className="Footer">
+    <div className="Body">
         <div className="container">
             <div className="row">
-                This is Footer
+                This is Body
             </div>
         </div>
     </div>
   );
 }
 
-export default Footer;
+export default Body;
